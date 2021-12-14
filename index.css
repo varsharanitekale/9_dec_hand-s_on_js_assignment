@@ -1,0 +1,31 @@
+input[type="number"], label ,button{
+    display:block;
+    margin:10px 0px 0px 200px;
+    padding:3px;
+    color:blue;
+    
+
+}
+h3{
+    text-align: center;
+    color:blue;
+}
+#main{
+    /* text-align: center; */
+    background-color:#efefef;
+    width:50%;
+    margin:0px 0px 0px 300px;
+
+ }
+ button{
+     background-color: plum;
+     width:26%;
+     border:none;
+ }
+ #result{
+     text-align: center;
+     width:50%;
+     background-color: green;
+      color:white; 
+      margin:0px 0px 0px 130px;
+ }
